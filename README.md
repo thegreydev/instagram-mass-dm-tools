@@ -10,7 +10,7 @@ developer: https://t.me/pysmart
 
 - Bulk Messaging: The script sends a direct message to a list of users by their usernames. It uses client.direct_send() to send the message to each user’s ID.
 
-- Scraping Followers and Following: The script fetches the followers or following of a given username, stores the usernames in a dictionary, and writes them to a text file (followers.txt or following.txt).
+- Scraping Followers and Following: The script fetches the followers or following of a given username, stores the usernames in a dictionary, and writes them to a text file (followers.txt or following.txt)
 
 developer: https://t.me/pysmart
 
