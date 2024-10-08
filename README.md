@@ -20,3 +20,5 @@ developer: https://t.me/pysmart
 - Session Handling: The script saves the session to avoid logging in multiple times, making future interactions faster and less risky (as repeated logins could trigger security checks).
 
 developer: https://t.me/pysmart
+
+an automated tool for sending bulk messages to instagram users
